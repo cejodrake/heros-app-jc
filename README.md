@@ -1,7 +1,7 @@
 Heroes App 
 
 
-This single App was built for the  Udemy course React  MENR . The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app as:
+This single App was built for the  Udemy course React  MERN . The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app as:
 
 Reuseable Component
 Sharing data between component
